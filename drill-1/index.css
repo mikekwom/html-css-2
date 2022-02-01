@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: lightgrey;
+}
+
+.top-bar {
+    background-color: #3c3c3c;
+    width: 100%;
+    height: 20vh;
+}
+
+.middle-bar {
+    background-color: white;
+    height: 70vh;
+    width: 80%;
+    margin: auto;
+}
+
+.bottom-bar {
+    background-color: #3c3c3c;
+    height: 10vh;
+    width: 80%;
+    margin: auto;
+}
